@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science student from Brazil</h3>
 
 - 🔭 I'm here to post my projects.
-- 🔨 I participated in a web development Bootcamp and with my colleagues developed the "Igarapé project".
+- 🔨 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Igarapé project".
 - 🌱 Exploring some technologies.
 - ⚡ In my free time I like to study and read articles
 

@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Larissa Pavan</h1>
 <h3 align="center">I'm a Computer Science student from Brazil</h3>
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I'm here to post my projects.
+- 🔨 I participated in a web development Bootcamp and with my colleagues developed the "Igarapé project".
+- 🌱 Exploring some technologies.
+- ⚡ In my free time I like to study and read articles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

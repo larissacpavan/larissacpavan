@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science student from Brazil</h3>
 
 - 🔭 Front-end Developer from São Paulo-SP, Brazil, Computer Science student.
-- 🔨 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Projeto Igarapé".
+- 🔨 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Projeto Igarapé". - https://github.com/ProjetoIgarape
 - 🌱 Exploring some technologies.
 - 👀 I'm always looking for a new learning.
 

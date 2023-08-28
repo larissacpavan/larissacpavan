@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Larissa Pavan</h1>
+<h1 align="center">Hi 👋, I'm Larissa Pavan</h1> 
 <h3 align="center">I'm a Computer Science student from Brazil</h3>
 
-- 🔭 I'm here to post my projects.
+- 🔭 Front-end Developer from São Paulo-SP, Brazil, Computer Science student.
 - 🔨 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Projeto Igarapé".
 - 🌱 Exploring some technologies.
-- ⚡ In my free time I like to study and read articles
+- 👀 I'm always looking for a new learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋, I'm Larissa Pavan</h1> 
-<h3 align="center">I'm a Computer Science student from Brazil</h3>
+<h1 align="center">Hello World, I'm Larissa Pavan.</h1> 
+<h3 align="center">I'm a Computer Science student from Brazil.</h3>
 
-- 🔭 Front-end Developer from São Paulo-SP, Brazil, Computer Science student.
-- 🔨 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Projeto Igarapé". - https://github.com/ProjetoIgarape
-- 🌱 Exploring some technologies.
+- 🔭 Front-end Developer.
+- 📚 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Projeto Igarapé".
+- 🌎 Get to know the project by clicking on this link 👉🏻 https://github.com/ProjetoIgarape 👈🏻
 - 👀 I'm always looking for a new learning.
 
+  
+---
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/larissacpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="larissacpavan" height="30" width="40" /></a>
-<a href="https://twitter.com/larissacpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="larissacpavan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/larissacpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="larissacpavan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/larissa-pavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="larissa-pavan" height="30" width="40" /></a>
-<a href="https://instagram.com/larissacpavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="larissacpavan" height="30" width="40" /></a>
-</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/www.linkedin.com/in/larissacpavan/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/larispavan/) 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+<h3 align="left">SKILLS:</h3>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larissacpavan&" alt="larissacpavan" /></p>
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![MongoDB](https://img.shields.io/badge/MongoDb-000?style=for-the-badge&logo=MongoDb)
+![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql)
+![NodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=node.js)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CCS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![BOOSTRAP](https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=larissacpavan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissacpavan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left"> I AM :</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work" alt="Typing SVG">
+</a>
+
+
+<h3 align="left"> My GitHub stats:</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=larissacpavan&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
+<h3 align="left">Most used:</h3>
+
+[![Larissa Pavan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=larissacpavan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/larissacpavan)
 
 ---

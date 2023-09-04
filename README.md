@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Larissa Pavan.</h1> 
+<h1 align="center">Hello World.</h1> 
 <h3 align="center">I'm a Computer Science student from Brazil.</h3>
 
 - 🔭 Front-end Developer.

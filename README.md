@@ -49,8 +49,6 @@
 ![CCS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ---
 
-
-
 <h3 align="left"> My GitHub stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=larissacpavan&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)

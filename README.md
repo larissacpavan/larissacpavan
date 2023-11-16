@@ -50,11 +50,6 @@
 ---
 
 
-<h3 align="left"> I AM :</h3>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work" alt="Typing SVG">
-</a>
-
 
 <h3 align="left"> My GitHub stats:</h3>
 

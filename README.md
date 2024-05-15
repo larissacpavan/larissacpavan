@@ -1,7 +1,7 @@
 <h1 align="center">Hello World.</h1> 
 <h3 align="center">I'm a Computer Science student from Brazil.</h3>
 
-- 🌟 IT Intern at Mercedes-Benz.
+- 🌟 IT Intern at Mercedes-Benz do Brasil LTDA.
 - 📚 I attended an intensive full-stack Web development bootcamp and with my colleagues developed the "Projeto Igarapé".
 - 🌎 Get to know the project by clicking on this link 👉🏻 https://github.com/ProjetoIgarape 👈🏻
 - 👀 I'm always looking for a new learning.

@@ -1,11 +1,13 @@
-<h1 align="center">Hello World.</h1> 
-<h3 align="center">I'm a Computer Science student from Brazil.</h3>
+<h1 align="center">Hello, world! I'm Larissa.</h1> 
+<h3 align="center">🎓 Computer Science Student | IT Intern | Full-Stack Developer.</h3>
 
-- 🌟 I am currently in my sixth semester of a Bachelor's degree in Computer Science and I'm an Sales & After-sales Systems IT Intern at Mercedes-Benz do Brasil LTDA.
-- 📚 I graduated from Generation Brasil as a Full-Stack Java Web Developer.
-- 🌎 Get to know the project by clicking on this link 👉🏻 https://github.com/ProjetoIgarape 👈🏻
-- 👀 I'm always looking for a new learning.
+🌟 I am currently in my sixth semester of a Bachelor's degree in Computer Science and an IT Intern for Sales & After-Sales Systems at Mercedes-Benz do Brasil LTDA.
 
+📚 I graduated from Generation Brasil as a Full-Stack Java Web Developer.
+
+👀 Always looking for new learning opportunities and challenges.
+
+💡 "Technology can change lives, and I want to be part of that change!"
   
 ---
 <h2 align="left">Connect with me:</h2>

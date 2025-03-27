@@ -73,16 +73,6 @@
 
 ---
 
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=larissacpavan&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
-### Most Used Languages
-
-[![Larissa Pavan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=larissacpavan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10)](https://github.com/saifurrahman1193)
-
----
-
 
 ## Contact
 

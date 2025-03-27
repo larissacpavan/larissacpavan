@@ -49,10 +49,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=bootstrap&logoColor=264CE4)
 
-### Open Source
-
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-
 ### Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)

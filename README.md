@@ -10,7 +10,6 @@
 ---
 
 ## Table of Contents
-- [GitHub Stats](#github-stats)
 - [Connect with Me](#connect-with-me)
 - [Skills](#skills)
   - [Languages](#languages)

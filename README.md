@@ -7,8 +7,6 @@
 
 👀 Always looking for new learning opportunities and challenges.
 
-💡 "Technology can change lives, and I want to be part of that change!"
-
 ---
 
 ## Table of Contents
@@ -21,6 +19,8 @@
   - [Web](#web)
 - [Projects](#projects)
 - [GitHub Stats](#github-stats)
+- [Achievements and Certifications](#achievements-and-certifications)
+- [Blog or Publications](#blog-or-publications)
 - [Contact](#contact)
 
 ---
@@ -28,7 +28,6 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/larissacpavan/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/larispavan/) 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/lacpavan/)
 
 ---
@@ -40,10 +39,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=264CE4)
+
 
 ### Databases
 
@@ -54,7 +50,7 @@
 
 ![NodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=node.js)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
-![BOOSTRAP](https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=bootstrap&logoColor=264CE4)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=bootstrap&logoColor=264CE4)
 
 ### Open Source
 
@@ -63,7 +59,7 @@
 ### Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CCS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ---
 
@@ -79,9 +75,10 @@
 
 ### Most Used Languages
 
-[![Larissa Pavan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=larissacpavan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&layout=compact)](https://github.com/saifurrahman1193)
+[![Larissa Pavan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=larissacpavan&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10)](https://github.com/saifurrahman1193)
 
 ---
+
 
 ## Contact
 

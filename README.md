@@ -15,12 +15,9 @@
   - [Languages](#languages)
   - [Databases](#databases)
   - [Frameworks](#frameworks)
-  - [Open Source](#open-source)
   - [Web](#web)
 - [Projects](#projects)
 - [GitHub Stats](#github-stats)
-- [Achievements and Certifications](#achievements-and-certifications)
-- [Blog or Publications](#blog-or-publications)
 - [Contact](#contact)
 
 ---

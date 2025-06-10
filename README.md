@@ -1,80 +1,43 @@
-<h1 align="center">Hello, world! I'm Larissa.</h1> 
-<h3 align="center">🎓 Computer Science Student | IT Intern | Full-Stack Developer.</h3>
+# Hello, I'm Larissa! 👋
 
-🌟 I am currently in my sixth semester of a Bachelor's degree in Computer Science and an IT Intern for Sales & After-Sales Systems at Mercedes-Benz do Brasil LTDA.
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
-📚 I graduated from Generation Brasil as a Full-Stack Java Web Developer.
-
-👀 Always looking for new learning opportunities and challenges.
-
----
-
-## Table of Contents
-- [Connect with Me](#connect-with-me)
-- [Skills](#skills)
-  - [Languages](#languages)
-  - [Databases](#databases)
-  - [Frameworks](#frameworks)
-  - [Web](#web)
-- [Projects](#projects)
-- [Contact](#contact)
+I'm a Full-Stack Developer and Computer Science student passionate about technology and innovation. I am currently looking to apply and expand my knowledge to create efficient and scalable software solutions.
 
 ---
 
-###
+### 👩‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissacpavan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larissacpavan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/larissacpavan/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/lacpavan/)
+* 🎓 Currently in my 6th semester of a Bachelor's degree in **Computer Science**.
+* 💻 IT Intern for Sales & After-Sales Systems at **Mercedes-Benz do Brasil**.
+* 🚀 Graduated as a **Full-Stack Java Web Developer** from **Generation Brasil**.
+* 💡 I have a keen interest in backend development, system architecture, and best programming practices.
+* 🌱 I'm always looking for new challenges and learning opportunities.
 
 ---
 
-## Skills
+### 🛠️ Tech Stack & Tools
 
-### Languages
+Here are some of the technologies I've been working with:
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDb-000?style=for-the-badge&logo=MongoDb)
-![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql)
-
-### Frameworks
-
-![NodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=node.js)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=bootstrap&logoColor=264CE4)
-
-### Web
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,react,nodejs,html,css" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,idea,vscode,linux" />
+  </a>
+</p>
 
 ---
 
-## Projects
+### 📊 GitHub Stats
 
-*Coming Soon!*
-
----
-
-
-## Contact
-
-Feel free to reach out to me via [email](mailto:larispavan@hotmail.com).
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---

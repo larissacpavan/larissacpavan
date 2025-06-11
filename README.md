@@ -1,31 +1,14 @@
-# 👩‍💻 Larissa | Computer Science Student & Aspiring Tech Changemaker
+# Hello, I'm Larissa! 👋
 
-Hi there! I'm Larissa — a Computer Science student, IT intern, and developer passionate about building tech solutions that create real-world impact. 💡✨
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=25&center=false&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Java+Developer;IT+Intern+at+Mercedes-Benz;Technology+Enthusiast" /></a>
+</p>
 
-🎓 **Academic & Professional Background**  
-I'm currently in my 6th semester of a **Bachelor's degree in Computer Science** and working as an **IT Intern** for Sales & After-Sales Systems at **Mercedes-Benz do Brasil LTDA**.
+I am a developing professional with a strong interest in software development and innovative solutions. My experience at Mercedes-Benz and intensive training at Generation Brasil have given me a solid foundation to tackle complex challenges in the world of technology.
 
-💻 I also graduated from **Generation Brasil** as a **Full-Stack Java Web Developer**, where I learned to build end-to-end web applications, from database design to responsive front-end interfaces.
+### 🎯 Current Focus
+* Enhancing my skills in **Microservices Architecture with Spring**.
+* Contributing to sales systems projects at Mercedes-Benz.
+* Exploring **Cloud Computing**, especially AWS.
 
-🚀 **What Drives Me**  
-I believe technology should be a bridge to opportunity — especially for underserved communities. One of my biggest goals is to create a global platform that helps underprivileged youth develop personally and professionally.
-
-🔍 **Always Learning**  
-I'm constantly exploring new areas — from backend and frontend development to quantum computing and soft skills. I value **curiosity, collaboration, and consistency** as the foundation of my growth.
-
-🌐 **Tech Stack & Skills**  
-- Java, Spring Boot  
-- HTML, CSS, JavaScript  
-- MySQL, PostgreSQL  
-- Git & GitHub  
-- RESTful APIs  
-- English (intermediate) | German (beginner)
-
-📫 **Let’s Connect!**  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Portfolio (optional)](https://your-portfolio.com)  
-- larissa@email.com  
-
----
-
-> _"Technology is the tool — but true impact is made through people."_ 🌍💙
+*(The rest of the profile can follow the structure of Option 1 or 2, with sections for Tech Stack, Stats, and Contact)*

@@ -1,7 +1,7 @@
 # Hello, I'm Larissa! 👋
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=25&center=false&vCenter=true&width=600&lines=Computer+Science+Student;Junior Java+Back-End Developer;IT+Intern+at+Mercedes-Benz+do Brasil;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=25&center=false&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Java+Back-End Developer;IT+Intern+at+Mercedes-Benz+do+Brasil;" /></a>
 </p>
 
 ---

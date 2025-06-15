@@ -8,7 +8,7 @@
 
 ### 👩🏼‍💻 About Me
 
-* 🎓 Currently in my 6th semester of a Bachelor's degree in **Computer Science**.
+* 🎓 Currently in my 7th semester of a Bachelor's degree in **Computer Science**.
 * 💻 IT Intern for Sales & After-Sales Systems at Mercedes-Benz Caminhões & Ônibus. 🔰
 * 🚀 Graduated as a **Full-Stack Java Web Developer** from **Generation Brasil**.
 * 💡 I have a keen interest in Back-End Development, IA, and Machine Learning.

@@ -22,7 +22,7 @@ Here are some of the technologies I've been working with:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,python,javascript,typescript,react,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,c,c#,c++,python,javascript,typescript,spring,react,nodejs,html,css" />
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode" />
   </a>

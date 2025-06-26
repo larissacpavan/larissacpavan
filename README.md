@@ -1,7 +1,7 @@
 # Hello, I'm Larissa! 👋
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=25&center=false&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Software+Engineer;AI,+Java,+Python;BackEnd;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=25&center=false&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Software+Engineer;AI,+Java,+and Python;BackEnd;" /></a>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 * 🎓 Currently in my 7th semester of a Bachelor's degree in **Computer Science**.
 * 💻 IT Intern for Sales & After-Sales Systems at Mercedes-Benz Caminhões & Ônibus. 🔰
 * 🚀 Graduated as a **Full-Stack Java Web Developer** from **Generation Brasil**.
-* 💡 I have a keen interest in Software Engineer, Backend, IA, and Machine Learning.
+* 💡 I have a keen interest in Software Engineer, BackEnd, IA, and Machine Learning.
 * 🌱 I'm always looking for new challenges and learning opportunities.
 
 ---

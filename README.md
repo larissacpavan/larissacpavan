@@ -18,7 +18,15 @@
 
 ### 🛠️ Tech Stack & Tools
 
-Here are some of the technologies I've been working with:
+🔹 Tools and Other Technologies:
+▸ Git – Version control: GitHub
+▸ REST APIs.
+
+🔹 Testing:
+▸ JUnit
+▸ PyTest.
+
+And here are some of the technologies I've been working with:
 
 <p align="left">
   <a href="https://skillicons.dev">

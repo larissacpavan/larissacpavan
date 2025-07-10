@@ -1,42 +1,33 @@
-# Hello, I'm Larissa! 👋
+# 👋 Hello, World!
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=36BCF7&size=25&center=false&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Software+Engineer;AI;BackEnd;" /></a>
-</p>
+😉 I'm not exactly sure how you got here, but let me share a bit about myself.
 
----
+## 🌟 Public Information
 
-### 👩🏼‍💻 About Me
+My name is **[Larissa Pavan]** (also known as **[Lari]**). I currently live in **[São Paulo, Brazil]**, and my main goal is to leverage technology to deliver impactful solutions, showcase my work, and contribute to the growth and empowerment of others through innovation and collaboration.. 🚀
 
-* 🎓 Currently in my 7th semester of a Bachelor's degree in **Computer Science**.
-* 💻 IT Intern for Sales & After-Sales Systems at Mercedes-Benz Caminhões & Ônibus. 🔰
-* 🚀 Graduated as a **Full-Stack Java Web Developer** from **Generation Brasil**.
-* 💡 I have a keen interest in Software Engineer, BackEnd, IA, and Machine Learning.
-* 🌱 I'm always looking for new challenges and learning opportunities.
+## 📝 Detailed Information
 
----
+<!-- Add your personal details you'd like to share -->
 
-### 🛠️ Tech Stack & Tools
+- 💻 **Stack:** Java, Spring Boot, Maven, JUnit, Python, Django, pytest, pip. 
+- 📚 **Currently Learning:** Machine Learning, AI, LLMs, AWS.  
+- 🎓 **Education:** Currently in my 7th semester of a Bachelor's degree in **Computer Science**.
+- 🚀 Graduated as a **Full-Stack Java Web Developer** from **Generation Brasil**.
 
-🔹 Tools and Other Technologies:
-▸ Git – Version control: GitHub
-▸ REST APIs.
+## 😎 Fun Facts About Me
 
-🔹 Testing:
-▸ JUnit
-▸ PyTest.
+<!-- Add something fun to show you're more than just code -->
 
-And here are some of the technologies I've been working with:
+- 🌱 I'm passionate about problem-solving, creating solutions, and continuous learning.
+- 👩🏼‍💻 My current focus is to grow as a Junior Software Engineer, with an emphasis on **Artificial Intelligence**.
+- 💡 I started programming in **[2022]**
+- 💻 **IT Intern for Sales & After-Sales Systems** at Mercedes-Benz Caminhões & Ônibus 🇧🇷.
+- 🪄 I have a basic level in **German**, an intermediate level in **English** and **Spanish**, and I am fluent in **Portuguese**.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,django" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-  </a>
-</p>
+## 😍 My Passions Outside of Code 
 
----
+When I'm not immersed in the world of technology, I dedicate my free time to activities that energize and inspire me. I'm a big music enthusiast. Football is also a passion, and I'm always cheering for my favorite team. But most of all, I love to read.
 
 ### 📊 GitHub Stats
 
@@ -44,5 +35,6 @@ And here are some of the technologies I've been working with:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissacpavan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissacpavan&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
 
 ---

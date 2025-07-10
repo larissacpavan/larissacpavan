@@ -4,7 +4,7 @@
 
 ## 🌟 Public Information
 
-My name is **[Larissa Pavan]** (also known as **[Lari]**). I currently live in **[São Paulo, Brazil]**, and my main goal is to leverage technology to deliver impactful solutions, showcase my work, and contribute to the growth and empowerment of others through innovation and collaboration.. 🚀
+My name is **Larissa Pavan** (also known as **Lari**). I currently live in **São Paulo, Brazil**, and my main goal is to leverage technology to deliver impactful solutions, showcase my work, and contribute to the growth and empowerment of others through innovation and collaboration.. 🚀
 
 ## 📝 Detailed Information
 
@@ -21,13 +21,14 @@ My name is **[Larissa Pavan]** (also known as **[Lari]**). I currently live in *
 
 - 🌱 I'm passionate about problem-solving, creating solutions, and continuous learning.
 - 👩🏼‍💻 My current focus is to grow as a Junior Software Engineer, with an emphasis on **Artificial Intelligence**.
-- 💡 I started programming in **[2022]**
+- 💡 I started programming in **2022**
 - 💻 **IT Intern for Sales & After-Sales Systems** at Mercedes-Benz Caminhões & Ônibus 🇧🇷.
 - 🪄 I have a basic level in **German**, an intermediate level in **English** and **Spanish**, and I am fluent in **Portuguese**.
 
 ## 😍 My Passions Outside of Code 
 
 When I'm not immersed in the world of technology, I dedicate my free time to activities that energize and inspire me. I'm a big music enthusiast. Football is also a passion, and I'm always cheering for my favorite team. But most of all, I love to read.
+
 
 ### 📊 GitHub Stats
 

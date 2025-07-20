@@ -2,13 +2,11 @@
 
 😉 I'm not exactly sure how you got here, but let me share a bit about myself.
 
-## 🌟 Public Information
+## 🌟 Who am I?
 
 My name is **Larissa Pavan** (also known as **Lari**). I currently live in **São Paulo, Brazil**, and my main goal is to leverage technology to deliver impactful solutions, showcase my work, and contribute to the growth and empowerment of others through innovation and collaboration.. 🚀
 
 ## 📝 Detailed Information
-
-<!-- Add your personal details you'd like to share -->
 
 - 💻 **Stack:** Java, Spring Boot, Maven, JUnit, Python, Django, pytest, pip. 
 - 📚 **Currently Learning:** Machine Learning, AI, LLMs, AWS.  

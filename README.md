@@ -1,14 +1,6 @@
 # 👋 Hello, World!
 
-My name is **Larissa Pavan** (also known as **Lari**). I currently live in **São Paulo, Brazil**, and my main goal is to leverage technology to deliver impactful solutions, showcase my work, and contribute to the growth and empowerment of others through innovation and collaboration.. 🚀
-
----
-
-## 💻 Tech Stack
-
-- **Languages & Frameworks:** Java, Spring Boot, JUnit, Python, Django, pytest  
-- **Tools & Utilities:** pip, Git, GitHub, VS Code  
-- **Current Focus:** Machine Learning, AI, LLMs, AWS
+My name is Larissa Pavan. I’m based in São Paulo, Brazil, and I’m passionate about Artificial Intelligence and software development. My mission is to leverage technology to create impactful solutions, share my work with the world, and contribute to the growth and empowerment of others through innovation and collaboration. 🚀
 
 ---
 
@@ -16,6 +8,12 @@ My name is **Larissa Pavan** (also known as **Lari**). I currently live in **Sã
 
 - 👩‍🎓 **Bachelor's Degree in Computer Science** — 7th semester  
 - 🧑‍💻 **Full-Stack Java Web Developer** graduate @ Generation Brasil
+
+---
+
+## 💻 Project
+
+I participated in the Full-Stack Java Developer Bootcamp, where I worked in a team to develop *Projeto Igarapé*, a fictional e-commerce platform for sustainable products. We used Java, Spring Boot, MySQL, and Heroku for the back end; React, TypeScript, VS Code, and Vercel for the front end. This experience strengthened my expertise in full-stack web development.
 
 
 ### 📊 GitHub Stats

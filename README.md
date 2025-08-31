@@ -11,13 +11,6 @@ My name is Larissa Pavan. I’m based in São Paulo, Brazil, and I’m passionat
 
 ---
 
-## 💻 Project
-
-I participated in the Full-Stack Java Developer Bootcamp, where I worked in a team to develop *Projeto Igarapé*, a fictional e-commerce platform for sustainable products. We used Java, Spring Boot, MySQL, and Heroku for the back end; React, TypeScript, VS Code, and Vercel for the front end. This experience strengthened my expertise in full-stack web development.
-
-- LINK https://projetoigarape.vercel.app
-
-
 ### 📊 GitHub Stats
 
 <p align="center">

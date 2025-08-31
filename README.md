@@ -1,13 +1,30 @@
-# 👋 Hello, World!
-
-My name is Larissa Pavan. I’m based in São Paulo, Brazil, and I’m passionate about Artificial Intelligence and software development. My mission is to leverage technology to create impactful solutions, share my work with the world, and contribute to the growth and empowerment of others through innovation and collaboration. 🚀
+# Olá, Mundo! 👋 Eu sou a Larissa Pavan
 
 ---
 
-## 🎓 Education
+##  Sobre mim
 
-- 👩‍🎓 **Bachelor's Degree in Computer Science** — 7th semester  
-- 🧑‍💻 **Full-Stack Java Web Developer** graduate @ Generation Brasil
+-  Cursando: Bacharelado em Ciência da Computação – 7º semestre  
+-  Formação complementar: Desenvolvedora Full-Stack Java Web – **Generation Brasil**  
+-  Estagiária de TI na **Mercedes-Benz Caminhões & Ônibus**  
+-  Interesses: **AI**, **desenvolvimento back-end** e **python**
+
+---
+
+##  Estatísticas no GitHub
+
+![Estatísticas de contribuição](link-para-as-estatísticas)
+
+---
+
+##  Vamos nos conectar?
+ 
+-  LinkedIn: [in/larissacpavan](https://www.linkedin.com/in/larissacpavan)  
+-  Linktree: [linktr.ee/lapavan](https://linktr.ee/lapavan)  
+
+---
+
+ Gostaria de colaborar ou saber mais sobre meus projetos? Manda uma mensagem — será um prazer conversar!
 
 ---
 

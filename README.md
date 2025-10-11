@@ -4,7 +4,7 @@
 
 ##  Sobre mim
 
--  Cursando: Bacharelado em Ciência da Computação – 7º semestre  
+-  Cursando: Bacharelado em Ciência da Computação – 8º semestre  
 -  Formação complementar: Desenvolvedora Full-Stack Java Web – **Generation Brasil**  
 -  Estagiária de TI na **Mercedes-Benz Caminhões & Ônibus**  
 -  Interesses: **AI**, **desenvolvimento back-end** e **python**
